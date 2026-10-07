@@ -4,6 +4,14 @@
 
 <p align="center">
 
+<a href="#-sobre">
+<img src="https://img.shields.io/badge/Sobre-4A90E2?style=for-the-badge&logo=bookstack&logoColor=white">
+</a>
+
+<a href="#-arquitetura">
+<img src="https://img.shields.io/badge/Arquitetura-6C5CE7?style=for-the-badge&logo=diagramsdotnet&logoColor=white">
+</a>
+
 <a href="#-inteligência-artificial">
 <img src="https://img.shields.io/badge/Inteligência%20Artificial-00B894?style=for-the-badge&logo=openai&logoColor=white">
 </a>
@@ -14,6 +22,10 @@
 
 <a href="#-tecnologias">
 <img src="https://img.shields.io/badge/Tecnologias-E74C3C?style=for-the-badge&logo=stackshare&logoColor=white">
+</a>
+
+<a href="#-equipe">
+<img src="https://img.shields.io/badge/Equipe-2D3436?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </p>
