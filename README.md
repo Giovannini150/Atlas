@@ -561,20 +561,6 @@ Entre eles:
 
 ---
 
-# 👥 Equipe
-
-| Integrante            | GitHub                                   | Função          |
-| --------------------- | ---------------------------------------- | --------------- |
-| **Yuri Duarte**       | [GitHub](https://github.com/yuridkerber) | Desenvolvimento |
-| **Karen Marroco**     | GitHub                                   | Desenvolvimento |
-| **Miguel Giovannini** | GitHub                                   | Desenvolvimento |
-| **Cleberson Felex**   | GitHub                                   | Desenvolvimento |
-| **Matheus Basso**     | GitHub                                   | Desenvolvimento |
-
-> Os links individuais do GitHub serão adicionados conforme os perfis forem definidos.
-
----
-
 # 🎓 Projeto Integrador
 
 O **Atlas** é um projeto acadêmico desenvolvido para a disciplina de **Projeto Integrador**, aplicando conceitos de:
