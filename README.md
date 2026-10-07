@@ -20,10 +20,6 @@
 <img src="https://img.shields.io/badge/Tecnologias-E74C3C?style=for-the-badge&logo=stackshare&logoColor=white">
 </a>
 
-<a href="#-equipe">
-<img src="https://img.shields.io/badge/Equipe-2D3436?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
 </p>
 
 <p align="center">
