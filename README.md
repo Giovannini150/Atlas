@@ -8,10 +8,6 @@
 <img src="https://img.shields.io/badge/Sobre-4A90E2?style=for-the-badge&logo=bookstack&logoColor=white">
 </a>
 
-<a href="#-arquitetura">
-<img src="https://img.shields.io/badge/Arquitetura-6C5CE7?style=for-the-badge&logo=diagramsdotnet&logoColor=white">
-</a>
-
 <a href="#-inteligência-artificial">
 <img src="https://img.shields.io/badge/Inteligência%20Artificial-00B894?style=for-the-badge&logo=openai&logoColor=white">
 </a>
