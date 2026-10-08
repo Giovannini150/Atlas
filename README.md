@@ -40,7 +40,7 @@ A proposta é transformar uma rotina acadêmica desorganizada em uma experiênci
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 
 O objetivo do Atlas é facilitar a organização da vida acadêmica dos estudantes, reduzindo:
 
@@ -151,7 +151,7 @@ O arquivo-fonte da arquitetura está disponível em:
 
 ---
 
-# 🛠️ Tecnologias
+# Tecnologias
 
 ## Backend
 
