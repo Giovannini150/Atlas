@@ -54,7 +54,10 @@ O objetivo do Atlas é facilitar a organização da vida acadêmica dos estudant
 A plataforma busca oferecer ao estudante uma visão clara de suas responsabilidades e ajudá-lo a decidir **o que estudar, quando estudar e quais atividades devem ser priorizadas**.
 
 ---
+# Metodologia
+O desenvolvimento do Atlas seguirá a metodologia Ágil (Scrum), organizada em entregas incrementais para facilitar a evolução contínua do sistema.
 
+---
 # 🏗️ Arquitetura
 
 A arquitetura do Atlas é dividida em **Frontend, Backend, Inteligência Artificial e Banco de Dados**.
